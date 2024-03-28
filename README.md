@@ -7,7 +7,6 @@ This is a some project for watching movies and tvshows's trailers and get more i
 npm install
 ```
 
-### Usage
 ```bash
 npm run dev
 ```
